@@ -1,6 +1,10 @@
-#POPP'N BEANS
+# POPP'N BEANS
+>PRISCA CHIEN & BERNICE QIU
+>2025-05-29
 ---
+
 Popp’n Bean is a tiny bot that can move like a regular wheeled note but it can also jump around in a fun, popping motion. The jumping mech is powered by a spring, which gives the popping / bouncy feature of Popp’n Bean
+
 ---
 ### ROUGHT BOM
 *From aliexpress
