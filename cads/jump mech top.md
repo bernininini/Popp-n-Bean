@@ -1,6 +1,2 @@
 ![img](https://hc-cdn.hel1.your-objectstorage.com/s/v3/7a7b7339578577b8a774dfa5ffc55f74be933c96_screenshot_2025-06-07_at_4.34.13___pm.png)
-![img](https://hc-cdn.hel1.your-objectstorage.com/s/v3/0fbaa6ccbfc46438edbf82690da2c2781243af4b_screenshot_2025-06-07_at_4.34.20___pm.png)
-![img](https://hc-cdn.hel1.your-objectstorage.com/s/v3/15eceeee411db0427bced594fc419bf501cb2a2f_screenshot_2025-06-07_at_4.37.19___pm.png)
-![img](https://hc-cdn.hel1.your-objectstorage.com/s/v3/3e16bc33be46a5d062f0c2342a09d370e9e60e81_screenshot_2025-06-07_at_4.37.32___pm.png)
-![img](https://hc-cdn.hel1.your-objectstorage.com/s/v3/084944c5bf9e788f5f07eb2311d0dd0dcdff9fb4_screenshot_2025-06-07_at_4.37.48___pm.png)
-![img](https://hc-cdn.hel1.your-objectstorage.com/s/v3/05415ba58aec9cb106d5013e8d6fd87205b0ed4b_screenshot_2025-06-07_at_4.38.04___pm.png)
+
